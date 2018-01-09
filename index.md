@@ -10,7 +10,7 @@ Creemos en el **Gobierno Abierto** por lo que hemos decidido apostar firmemente 
 
 * * *
 
-## [](#header-PIT)PIT: Portal de Información Exconómica e Infraestructuras 
+## [](#header-PIEI)PIEI: Portal de Información Exconómica e Infraestructuras 
 Herramienta Open Source de creación de un Portal de Transparencia para publicar de forma rápida y sencilla toda aquella información que desee compartir con sus ciudadanos.
 
 [descubra más sobre el Portal de Información Transparente](sielocal-page).

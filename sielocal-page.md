@@ -2,6 +2,18 @@
 layout: default
 ---
 
+# FUNCIONES PRINCIPALES
+ * Permite conocer a los y las candidatas que postulan.
+ * Permite publicar propuestas ciudadanas mediante un formulario.
+ * Votación a las propuestas publicadas por parte de los usuarios.
+
+# DESCRIPCIÓN
+
+
+# ÁREAS DE CONOCIMIENTO
+ * PLANEACIÓN PARTICIPATIVA
+ * TRANSPARENCIA
+
 # [](#header-PIEI)Portal de Información Económica e Infraestructuras
 
 La plataforma open source ofrecida por el portal de información económica y de infraestructuras es la misma que utilizamos en nuestra herramienta [SIELOCAL - Transparencia Económica](https://http://sielocal.com) y ofrece datos económicos de Entidades Públicas mediante gráficos interactivos
