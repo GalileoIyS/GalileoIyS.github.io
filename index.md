@@ -4,7 +4,7 @@ layout: default
 
 index_TEMPLATE
 
-[Link to index-template](index-template).
+[Link to index-template](index-template.md).
 
 
 # [](#header-1)Tecnologías Open Source para Gobierno Abierto 
