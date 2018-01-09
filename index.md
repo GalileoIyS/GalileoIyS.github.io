@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Link to index-template](index-template).
+[Link to index-template](another-page2).
 
 
 # [](#header-1)Tecnologías Open Source para Gobierno Abierto 
