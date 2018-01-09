@@ -13,13 +13,14 @@ Creemos en el **Gobierno Abierto** por lo que hemos decidido apostar firmemente 
 ## [](#header-PIT)PIT: Portal de Información Transparente
 Herramienta Open Source de creación de un Portal de Transparencia para publicar de forma rápida y sencilla toda aquella información que desee compartir con sus ciudadanos.
 
-[descubra más sobre el Portal de Información Transparente](another-page).
+[descubra más sobre el Portal de Información Transparente](sielocal-page).
 
 
 ## [](#header-CAT)Catastro: Plataforma de Catastro
 Plataforma Open Source de consulta y explotación de Catastro en el ámbito de los países latinoamericanos.
 
-[descubra más sobre la Plataforma Catastral](another-page).
+[descubra más sobre la Plataforma Catastral](catastro-page).
+
 
 
 [back](./)
