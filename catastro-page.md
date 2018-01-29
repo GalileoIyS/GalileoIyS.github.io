@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-PIT)Catastro: Plataforma de Catastro
+# [](#header-CAT)Plataforma de Catastro Open Source Galileo
 Plataforma Open Source de consulta y explotación de Catastro en el ámbito de los países latinoamericanos.
 
 Esta herramienta tecnológica, está orientada al análisis y explotación de datos catastrales, y está concebida como una plataforma que puede adaptarse a diferentes realidades jurídico-técnicas existentes en distintos países, así como escalar en funcionalidades ofertadas según demanda. 
