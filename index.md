@@ -10,7 +10,7 @@ Creemos en el **Gobierno Abierto** por lo que hemos decidido apostar firmemente 
 
 * * *
 
-## [](#header-CAT)Catastro: Plataforma de Catastro
+## [](#header-CAT)Plataforma de Catastro Open Source Galileo
 Plataforma Open Source de consulta y explotación de Catastro en el ámbito de los países latinoamericanos.
 
 [descubra más sobre la Plataforma Catastral](catastro-page).
