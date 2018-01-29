@@ -26,11 +26,11 @@ El formulario de detalle muestra la información básica según modelo LADM, es 
 
 ## [](#header-Mapa)Ventana de Mapa
 La solución dispone de una ventana de mapa desde la que los usuarios pueden acceder a la información geográfica catastral, o de otro tipo, que se desee integrar (tanto ráster como vectorial) ofreciendo funcionalidades básicas como:
-•   Herramientas de navegación como zoom in/out, desplazamiento continuo, zoom a una capa, etc.
-•   Posibilidad de imprimir la vista de mapa.
-•   Herramientas de medición lineal y poligonal.
-•   Leyenda que permita seleccionar, mostrar u ocultar capas, así como definir la opacidad de las mismas.
-•   Herramienta de solicitud de información de las parcelas del mapa.
+ *   Herramientas de navegación como zoom in/out, desplazamiento continuo, zoom a una capa, etc.
+ *   Posibilidad de imprimir la vista de mapa.
+ *   Herramientas de medición lineal y poligonal.
+ *   Leyenda que permita seleccionar, mostrar u ocultar capas, así como definir la opacidad de las mismas.
+ *   Herramienta de solicitud de información de las parcelas del mapa.
 
 ## [](#header-HerramientasExplotacion)Herramientas de Explotación
 La plataforma incluye la implementación de herramientas de tematización de datos prediales sobre la ventana de mapa, de modo que el usuario pueda seleccionar un atributo del repositorio de datos asociados a los predios y construir, de forma dinámica, un mapa temático por valores o por rangos, si el atributo es numérico, que sea proyectado en el mapa. 
