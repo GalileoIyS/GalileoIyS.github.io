@@ -2,39 +2,29 @@
 layout: default
 ---
 
-# FUNCIONES PRINCIPALES
- * Permite conocer a los y las candidatas que postulan.
- * Permite publicar propuestas ciudadanas mediante un formulario.
- * Votación a las propuestas publicadas por parte de los usuarios.
-
-# DESCRIPCIÓN
-
-
-# ÁREAS DE CONOCIMIENTO
- * PLANEACIÓN PARTICIPATIVA
- * TRANSPARENCIA
-
 # [](#header-PIEI)Portal de Información Económica e Infraestructuras
+El **Sistema de Información Económica** se presenta como una plataforma dirigida a mejorar la capacidad de gestión y operativa de las administraciones públicas que requieren la remisión de información económica (y de otra índole) de forma periódica y/o regulada, o la publicación de información para la implantación de prácticas de buen gobierno y  gobierno abierto. 
 
-La plataforma open source ofrecida por el portal de información económica y de infraestructuras es la misma que utilizamos en nuestra herramienta [SIELOCAL - Transparencia Económica](https://http://sielocal.com) y ofrece datos económicos de Entidades Públicas mediante gráficos interactivos
-
-Esta plataforma le permiteayudará a divulgar y fomentar la transparencia y hacer crecer la confianza de los ciudadanos en administraciones y entidades de países de habla hispana. 
-
-La plataforma permite trabajar combinando diversas fuentes de datos públicos para obtener indicadores económicos capaces de evaluar las diferentes entidades territoriales. La plataforma le ayuda a representar la información de manera interactiva así como también a ofrecer informes abiertos y públicos de todas las administraciones del estado y utilizar técnicas de **Big Data** para generar conocimiento, para que cualquier persona la pueda entender y sacar sus conclusiones.
-
-[visite SieLocal.com](http://sielocal.com)
-
-
+Nuestro Sistema de Información Económica es una plataforma que resuelve el problema de la remisión de información entre entidades gracias a 
+* automatizar la captura de fuentes de información de diversos tipos (incluidas las fuentes de datos catastrales e información georeferenciada), 
+* de que dispone de capacidad analítica y business intelligence para combinar diversas fuentes de datos y obtener indicadores económicos capaces de evaluar distintas entidades territoriales, 
+ * permite la generación de informes y la agregación de indicadores y fuentes de datos para su uso y la creación de nuevos indicadores más complejos, 
+ * dispone de una potente plataforma para la publicación, visualización y la generación de informes, 
+ * permite la remisión, y su automatización, de formularios de todo tipo de información, 
+ * y además, ayuda a presentar la información de manera simplificada e interactiva, para que cualquier persona la pueda entender y sacar sus conclusiones.
+ 
+Nuestra plataforma ha sido desarrollada contando con la experiencia de más de 30 años en el sector de las administraciones públicas de Latinoamérica y España.
 
 * * *
-## [](#header-Transparencia)Transparencia Económica
-Utilice nuestro Portal de Transparencia para publicar de forma rápida y sencilla toda aquella información que desee compartir con sus ciudadanos.
 
-## [](#header-Periodismo)Periodismo de Datos
-Acceda de forma gratuita a nuestra base de datos de indicadores y compruebe cual es la situación actual de la Administración Pública en solo un click de ratón.
+## [](#header-Módulos)Módulos
+El código que se presenta es la plataforma inicial a partir de la cual construir la plataforma final, que contará con los siguientes módulos:
 
-## [](#header-Graficas)Gráficas interactivas
-Somos expertos en construir gráficos dinámicos utilizando fuentes de datos complejas que ayuden a comprender y analizar dicha información.
+ * Importación de múltiples fuentes de datos
+ * Módulo Analítico
+ * Plataforma Web de Uso, Publicación, Visualización, Remisión y Administración
+
+
 
 
 
