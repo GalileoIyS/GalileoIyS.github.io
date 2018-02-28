@@ -37,6 +37,8 @@ La plataforma incluye la implementación de herramientas de tematización de dat
 
 El conjunto de predios a tematizar podrá ser el universo completo de capas, o estar pre-filtrado desde la herramienta de consulta de datos prediales.
 
+## [](#header-Extensible)Capacidad de Extensión de la Plataforma
+La plataforma permite su extensibilidad para la creación e integración de herramientas y componentes adicionales específicos.
 
 
 [back](./)
