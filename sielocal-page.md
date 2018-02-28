@@ -13,7 +13,6 @@ Nuestro Sistema de Información Económica es una plataforma que resuelve el pro
  * permite la remisión, y su automatización, de formularios de todo tipo de información, 
  * y además, ayuda a presentar la información de manera simplificada e interactiva, para que cualquier persona la pueda entender y sacar sus conclusiones.
  
-Nuestra plataforma ha sido desarrollada contando con la experiencia de más de 30 años en el sector de las administraciones públicas de Latinoamérica y España.
 
 * * *
 
@@ -23,6 +22,9 @@ El código que se presenta es la plataforma inicial a partir de la cual construi
  * Importación de múltiples fuentes de datos
  * Módulo Analítico
  * Plataforma Web de Uso, Publicación, Visualización, Remisión y Administración
+
+
+Nuestra plataforma ha sido desarrollada contando con la experiencia de más de 30 años en el sector de las administraciones públicas de Latinoamérica y España.
 
 
 
