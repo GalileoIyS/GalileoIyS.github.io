@@ -31,5 +31,3 @@ En breve compartiremos más noticias, mientras tanto [visita nuestra web](http:/
 
 [![Galileo Ingeniería y Servicios - Tecnología para Administraciones Públicas](http://www.galileoiys.es/wp-content/uploads/2017/09/logo-galileo_maggioli2.jpg)](http://galileoiys.es)
 
-
-[back](./)
