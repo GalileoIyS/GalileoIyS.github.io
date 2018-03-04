@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-PIEI)Portal de Información Económica e Infraestructuras
+# [](#header-PIEI)Sistema de Información Económica
 El **Sistema de Información Económica** se presenta como una plataforma dirigida a mejorar la capacidad de gestión y operativa de las administraciones públicas que requieren la remisión de información económica (y de otra índole) de forma periódica y/o regulada, o la publicación de información para la implantación de prácticas de buen gobierno y  gobierno abierto. 
 
 Nuestro Sistema de Información Económica es una plataforma que resuelve el problema de la remisión de información entre entidades gracias a 
